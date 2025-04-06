@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "285786693198",
+    "project_id": "fireswifts",
+    "storage_bucket": "fireswifts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285786693198:android:ee8561daafcb056379ad1f",
+        "android_client_info": {
+          "package_name": "com.example.gate_p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285786693198-d6m7pe6f1j86q8sagvaa7gsg0si4qhvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA896K-wkJTWd35yCPaCXhxMQ-scnmSM0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285786693198-d6m7pe6f1j86q8sagvaa7gsg0si4qhvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285786693198-orsmlm6fdtdat1ftf98klk598kji4vmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.king.fireswifty"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285786693198:android:48a49af33b643cbe79ad1f",
+        "android_client_info": {
+          "package_name": "io.king.real_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285786693198-d6m7pe6f1j86q8sagvaa7gsg0si4qhvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA896K-wkJTWd35yCPaCXhxMQ-scnmSM0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285786693198-d6m7pe6f1j86q8sagvaa7gsg0si4qhvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285786693198-orsmlm6fdtdat1ftf98klk598kji4vmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.king.fireswifty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
