@@ -38,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Location Sharing App',
+              'Gate Pass App',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,

@@ -87,6 +87,14 @@ class ProfileHomeScreen extends StatelessWidget {
                       otherText: "Last Reset on 17/11/24",
                       valueColor: black(isAppDark(context)),
                     ),
+                    40.sp.sbH,
+                    AppButton.transparent(
+                      text: "Logout",
+                      textColor: red11(false),
+                      onTap: (){
+                        model.popDialog(context: context, title: "Logout", onTap: authService.signOut);
+                      },
+                    )
 
                   ],
                 ),
