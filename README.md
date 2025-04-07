@@ -25,7 +25,7 @@
 
 ## TO PREVIEW THE APP ON YOUR BROWSER
 Just click on the link below
-[APPETIZE](https://appetize.io/embed/b_vuyl2bz4hgwwrgl2lpoyhihzma)
+[APPETIZE](https://appetize.io/embed/b_dz3ebqccc6qseoi3fuupqlujrm)
 
 ## GALLERY
 
